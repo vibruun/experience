@@ -4,7 +4,7 @@ import keyboard
 
 times_pressed = 0
 
-# Flag variables to check if 5, 10, 15, and 20 presses have been reached
+# Se om knappene har blitt trykket 5, 10, 15 og 20 ganger
 pressed5 = False
 pressed10 = False
 pressed15 = False
